@@ -5,10 +5,26 @@ Portfolio of Daria Agisheva for a QA Engineer (Junior Software Tester)
 _**My skills**_
 
 _Manual testing_
+- Manual functional testing
+- Regression testing
+- Integration testing
 - Create test cases (TestRail, Testlink, Test IT)
 - Create checklists (Sitechko)
-- Write bug reports (Redmine, Bugzilla, Mantis, JIRA)
-- Create MindMap (Xmind, MindMeister)
+- Localization and submitting bug reports and improvements in bug tracking system (Redmine, Bugzilla, Mantis, JIRA + Confluence)
+- Basic test design techniques (equivalence classes, "borders")
+- Exploratory testing (tours by James A. Whittaker, mnemonics)
+- Functional testing of web-sites
+- Testing documentation (also test variations)
+- Basic test analysis techniques (State Transitional Testing, Decision Table, pairwise)
+- Create MindMaps (Xmind, MindMeister)
+
+_Automation testing_
+- Little experience in automation testing (Java)
+- Working witj command line, Git, IntelliJ IDEA
+- Basic knowledge of sql SQL (simple requests)
+
+
+- _**English level: Intermediate**_
 
 
 # Портфолио
@@ -28,12 +44,10 @@ _Ручное тестирование_
 - Тестирование документации (в том числе варианты использования)
 - Основные техники тест-анализа (State Transitional Testing, Decision Table, pairwise)
 - Составление Майнд-карт (Xmind, MindMeister)
+- 
 _Автотестирование_
 - Небольшой опыт в автотестировании (Java)
 - Работа с командной строкой, Git, IntelliJ IDEA
 - Базовые знания SQL (простые запросы)
 
 _**Английский язык: Intermediate**_
-
-
-_Ручное тестирование_
