@@ -46,7 +46,7 @@ _Manual testing_
 
 _Automation testing_
 - Little experience in automation testing (Java)
-- Working witj command line, Git, IntelliJ IDEA
+- Working with command line, Git, IntelliJ IDEA
 - Basic knowledge of sql SQL (simple requests)
 
 
