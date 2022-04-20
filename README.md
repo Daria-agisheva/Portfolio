@@ -8,7 +8,7 @@ _Ручное тестирование_
 - Интеграционное тестирование
 - Составление тест-кейсов (TestRail, Testlink, Test IT)
 - Составление чек-листов (Sitechko)
-- Локализация, оформление багов и улучшений в баг-трекинговых системах (Redmine, Bugzilla, Mantis, JIRA)
+- Локализация, оформление багов и улучшений в баг-трекинговых системах (Redmine, Bugzilla, Mantis, JIRA + Confluence, YouTrack)
 - Основные техники тест-дизайна (классы эквивалентности, граничные значения)
 - Исследовательское тестирование - тестирование по турам Д. Уиттакера, мнемоники
 - Функциональное тестирование web-сайта
@@ -36,7 +36,7 @@ _Manual testing_
 - Integration testing
 - Create test cases (TestRail, Testlink, Test IT)
 - Create checklists (Sitechko)
-- Localization and submitting bug reports and improvements in bug tracking system (Redmine, Bugzilla, Mantis, JIRA + Confluence)
+- Localization and submitting bug reports and improvements in bug tracking system (Redmine, Bugzilla, Mantis, JIRA + Confluence, YouTrack)
 - Basic test design techniques (equivalence classes, "borders")
 - Exploratory testing (tours by James A. Whittaker, mnemonics)
 - Functional testing of web-sites
