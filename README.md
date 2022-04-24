@@ -25,7 +25,7 @@ _**Английский язык: Intermediate**_
 
 # Portfolio
 
-Portfolio of Daria Agisheva for a QA Engineer (Junior Software Tester). Examples of test documentation that I have created are on tab Wiki
+Portfolio of Daria Agisheva for a QA Engineer. Examples of test documentation that I have created are on tab Wiki
 
 _**My skills**_
 
