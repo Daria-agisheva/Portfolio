@@ -48,6 +48,6 @@ _Automation testing_
 - Basic knowledge of sql SQL (simple requests)
 
 
-- _**English level: Intermediate**_
+ _**English level: Intermediate**_
 
 
