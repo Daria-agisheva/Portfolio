@@ -3,7 +3,7 @@
 
 _**Мои навыки**_
 _Ручное тестирование_
-- Ручное функциональное тестирование
+- Ручное функциональное web тестирование
 - Регрессионное тестирование
 - Интеграционное тестирование
 - Составление тест-кейсов (TestRail, Testlink, Test IT)
@@ -14,7 +14,7 @@ _Ручное тестирование_
 - Тестирование документации (в том числе варианты использования)
 - Основные техники тест-анализа (State Transitional Testing, Decision Table, pairwise)
 - Составление Майнд-карт (Xmind, MindMeister)
-- 
+
 _Автотестирование_
 - Работа с автотестами на готовом фреймворке (Java)
 - Работа с командной строкой, Git, IntelliJ IDEA
@@ -30,7 +30,7 @@ Portfolio of Daria Agisheva for a QA Engineer (Junior Software Tester). Examples
 _**My skills**_
 
 _Manual testing_
-- Manual functional testing
+- Manual functional web testing
 - Regression testing
 - Integration testing
 - Create test cases (TestRail, Testlink, Test IT)
@@ -43,7 +43,7 @@ _Manual testing_
 - Create MindMaps (Xmind, MindMeister)
 
 _Automation testing_
-- Working with autotest on framework
+- Working with autotests on existing framework
 - Working with command line, Git, IntelliJ IDEA
 - Basic knowledge of sql SQL (simple requests)
 
