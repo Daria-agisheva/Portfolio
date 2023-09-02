@@ -1,5 +1,5 @@
 # Портфолио
-Портфолио Агишевой Дарии на должность QA Engineer (тестировщик). Примеры выполненной мной тестовой документации находятся во вкладке Wiki.
+Портфолио Половинкиной Дарии на должность QA Engineer (тестировщик). Примеры выполненной мной тестовой документации находятся во вкладке Wiki.
 
 _**Немного обо мне**_
 
@@ -35,7 +35,7 @@ _**Английский язык: Intermediate**_
 
 # Portfolio
 
-Portfolio of Daria Agisheva for a QA Engineer. Examples of test documentation that I have created are on tab Wiki
+Portfolio of Daria Polovinkina for a QA Engineer. Examples of test documentation that I have created are on tab Wiki
 
 _**My skills**_
 
